@@ -12,3 +12,5 @@ export { default as Collaboration } from "./Collaboration";
 export { default as Services } from "./Services";
 export { default as Pricing } from "./Pricing";
 export { default as PricingList } from "./PricingList";
+export { default as RoadMap } from "./RoadMap";
+export { default as Footer } from "./Footer";
