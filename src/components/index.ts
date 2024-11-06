@@ -9,3 +9,4 @@ export { default as Benefits } from "./Benefits";
 export { default as TagLine } from "./TagLine";
 export { default as Heading } from "./Heading";
 export { default as Collaboration } from "./Collaboration";
+export { default as Services } from "./Services";
