@@ -10,3 +10,5 @@ export { default as TagLine } from "./TagLine";
 export { default as Heading } from "./Heading";
 export { default as Collaboration } from "./Collaboration";
 export { default as Services } from "./Services";
+export { default as Pricing } from "./Pricing";
+export { default as PricingList } from "./PricingList";
