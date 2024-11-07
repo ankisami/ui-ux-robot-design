@@ -2,23 +2,23 @@
   <h1>UI/UX Robot Design</h1>
 </div>
 
-[url : Live Demo](https://iphone-web-site.vercel.app/)
+[url : Live Demo](https://ui-ux-robot-design.vercel.app/)
 
 # Modern UI/UX Website
 
 A modern and responsive UI/UX website built with **React.js**, **Vite**, and **Tailwind CSS**. This project exemplifies contemporary UI/UX principles with sleek design, seamless animations, and an exceptional user experience.
-
-## 🌟 Screenshots
-
-![Hero Section](https://path-to-your-image/hero.png)
-![Features Section](https://path-to-your-image/features.png)
-![Pricing Section](https://path-to-your-image/pricing.png)
 
 ## 🚀 Tech Stack
 
 - **Vite**: A fast build tool for modern web projects.
 - **React.js**: A JavaScript library for building user interfaces.
 - **Tailwind CSS**: A utility-first CSS framework for rapidly building custom designs.
+
+## 🌟 Screenshots
+<img width="1680" alt="Screenshot 2024-11-07 at 11 57 06" src="https://github.com/user-attachments/assets/64a7a869-c47e-49bd-91a9-1d4518c7e9af">
+<img width="1680" alt="Screenshot 2024-11-07 at 11 57 50" src="https://github.com/user-attachments/assets/1a82cbba-857c-4820-a469-e902607f57c2">
+<img width="774" alt="Screenshot 2024-11-07 at 11 59 35" src="https://github.com/user-attachments/assets/94de2336-46b4-460c-b268-fd09cb73fa5c">
+
 
 ## 📱 Responsiveness
 
